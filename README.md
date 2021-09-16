@@ -4,12 +4,12 @@
 Criação de cardápio simples com descrição e preços
 
 
-![Logo](https://pizzariafavorita.vercel.app/assets/img/Logotipo.webp)
+![Logo](https://afavorita.pizza/assets/img/Logotipo.webp)
 
     
 ## Link web
 
-[Pizzaria A Favorita > ](https://pizzariafavorita.vercel.app/)
+[Pizzaria A Favorita > ](https://afavorita.pizza/)
 
   
 ## Authors
